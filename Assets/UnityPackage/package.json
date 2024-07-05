@@ -1,0 +1,24 @@
+{
+	"name": "",
+	"version": "0.1.0",
+	"displayName": "UnityPackageTemplate",
+	"description": "",
+	"unity": "2022.3",
+	"documentationUrl": "https://github.com/FKI-HTW/UnityPackageTemplate/blob/main/Assets/UnityPackageTemplate/README.md",
+	"changelogUrl": "https://github.com/FKI-HTW/UnityPackageTemplate/blob/main/Assets/UnityPackageTemplate/CHANGELOG.md",
+	"licensesUrl": "https://github.com/FKI-HTW/UnityPackageTemplate/blob/main/Assets/UnityPackageTemplate/LICENSE.md",
+	"dependencies": {},
+	"keywords": [],
+	"samples": [
+		{
+			"displayName": "Sample",
+			"description": "Example template for a Unity package sample",
+			"path": "Samples~/Sample"
+		}
+	],
+	"author": {
+		"name": "",
+		"email": "",
+		"url": ""
+	}
+}
